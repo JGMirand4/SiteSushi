@@ -1,0 +1,77 @@
+.header {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#banner {
+  width: 100%;
+}
+
+.principal {
+  background-color: #08080a;
+  color: #fffefe;
+  padding: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titulo-principal {
+  color: #fffefe;
+  text-align: center;
+  font-size: 55px;
+  font-family: 'PPGatwick';
+}
+.titulo-secundario {
+  color: #fffefe;
+  text-align: center;
+  font-size: 45px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+  text-align: center;
+}
+
+#missao {
+  font-size: 15px;
+}
+
+em strong {
+  color: #ff1717;
+}
+
+.itens {
+  font-style: italic;
+}
+
+.beneficios {
+  background-color: #08080a;
+  color: #ffffff;
+  padding: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.imagembeneficios {
+  width: 50%;
+}
+
+.cardapio {
+  font-size: 50px;
+  padding: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.imagemlogo {
+  width: 50%;
+  align-items: baseline;
+}
